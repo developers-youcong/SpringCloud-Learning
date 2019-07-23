@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: service-ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: eluzhu
+Implementation-Vendor-Id: service-ribbon
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCloud-Learning/service-ribbon
+Created-By: Maven Integration for Eclipse
+
