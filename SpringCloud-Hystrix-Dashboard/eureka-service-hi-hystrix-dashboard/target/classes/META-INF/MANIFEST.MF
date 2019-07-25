@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-service-hi-hystrix-dashboard
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: eluzhu
+Implementation-Vendor-Id: cn.springcloud.learning
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCloud-Hystrix-Dashboard/eureka-service-hi-hys
+ trix-dashboard
+Created-By: Maven Integration for Eclipse
+
