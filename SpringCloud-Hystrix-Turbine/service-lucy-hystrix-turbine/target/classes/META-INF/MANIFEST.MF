@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: service-lucy-hystrix-turbine
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: eluzhu
+Implementation-Vendor-Id: cn.springcloud.learning
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCloud-Hystrix-Turbine/service-lucy-hystrix-tu
+ rbine
+Created-By: Maven Integration for Eclipse
+

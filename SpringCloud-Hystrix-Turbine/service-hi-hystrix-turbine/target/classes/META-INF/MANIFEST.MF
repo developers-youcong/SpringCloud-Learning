@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: service-hi-hystrix-turbine
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: eluzhu
+Implementation-Vendor-Id: cn.springcloud.learning
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringCloud-Hystrix-Turbine/service-hi-hystrix-turb
+ ine
+Created-By: Maven Integration for Eclipse
+
